@@ -8,6 +8,7 @@ var cardThree = "king";
 
 var cardFour = "king";
 
+/* ==== Use for the next assignment
 if (cardOne === cardTwo) {
 	alert('You found a match'); 
 } else {
@@ -19,4 +20,5 @@ if (cardThree === cardFour) {
 } else {
 	alert('Sorry, try again');
 };
+*/
 
