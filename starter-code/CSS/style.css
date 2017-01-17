@@ -1,20 +1,17 @@
 h1 { 
 	color: rgb(2, 132, 130);
+	text-align: center;
 }
 
 h2 { 
 	color: #ffd700;
+	text-align: center;
 }
 
 body {
 	text-align: center;
 }
 
-.board {
-	height: 80%;
-	width: 50%;
-	display: inline-block;
-}
 .card {
 	height: 200px;
 	width: 150px;
@@ -22,6 +19,14 @@ body {
 	background-color: #ffff00;
 	border-radius: 10px;
 }
+
+.board {
+	height: 80%;
+	width: 50%;
+	display: inline-block;
+}
+
 .name {
 	color: #ff0000;
 }
+
