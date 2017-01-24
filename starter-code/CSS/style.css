@@ -8,18 +8,6 @@
   margin: 8%;
 }
 
-.card:hover {
-	background-color: ##D3D3D3;
-  	  height: 200px;
- 	 width: 150px;
-  	border: 1px solid black;
- 	border-radius: 10px;
-  float: left;
-	 margin: 8%;
-}
-
-
-
 img {
 	height: 200px;
 	width: 150px;

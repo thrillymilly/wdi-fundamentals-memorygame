@@ -1,5 +1,5 @@
 
-var cards = ['queen', 'king', 'queen', 'king'];
+var cards = ['queen', 'king', 'queen', 'king', 'queen', 'king', 'queen', 'king'];
 
 /*create var cards in play*/
 
