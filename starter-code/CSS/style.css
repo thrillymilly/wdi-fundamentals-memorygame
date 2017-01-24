@@ -1,32 +1,84 @@
-h1 { 
-	color: rgb(2, 132, 130);
-	text-align: center;
-}
-
-h2 { 
-	color: #ffd700;
-	text-align: center;
-}
-
-body {
-	text-align: center;
-}
-
 .card {
+  height: 200px;
+  width: 150px;
+  border: 1px solid black;
+  background-color: #ffd700;
+  border-radius: 10px;
+  float: left;
+  margin: 8%;
+}
+
+.card:hover {
+	background-color: ##D3D3D3;
+  	  height: 200px;
+ 	 width: 150px;
+  	border: 1px solid black;
+ 	border-radius: 10px;
+  float: left;
+	 margin: 8%;
+}
+
+
+
+img {
 	height: 200px;
 	width: 150px;
-	border: 1px solid black;
-	background-color: #ffff00;
-	border-radius: 10px;
 }
 
 .board {
 	height: 80%;
 	width: 50%;
 	display: inline-block;
+	margin: 0px 0px 0px 120px;
+}
+
+h1 { 
+	color: rgb(2, 132, 130);
+	text-align: center;
+	font-family: arial, bold;
+}
+
+h2 { 
+	color: #ffd700;
+	text-align: center;
+	font-family: arial;
+}
+
+body {
+	text-align: center;
+}
+
+.p1 {
+  text-align: center;
+  display: inline-block;
+  margin: 0px 100px 0px 100px;
+}
+
+.navbar {
+  	background-color: #00000;
+  	display: inline-block;
+  	font-family: arial;
+ 	background-color: #ffbf00;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.navbar:hover {
+	background-color: #ee5f3c;
+  	display: inline-block;
+  	font-family: arial;
+    font-color: white;
+    text-decoration: none;
 }
 
 .name {
-	color: #ff0000;
+  color: #ff0000;
+  display: inline-block;
 }
 
+.social {
+	color: #ffd700;
+	text-align: center;
+	display: inline-block;
+}
